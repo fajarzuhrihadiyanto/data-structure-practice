@@ -3,3 +3,4 @@ This repository contains all my data structure practice in C. The practice is ta
 
 - module 1 : https://www.hackerrank.com/contests/sdf-m1/challenges
 - module 2 : https://www.hackerrank.com/contests/sdf-m2/challenges
+- module 3 : https://www.hackerrank.com/contests/sdf-m3-2021/challenges
